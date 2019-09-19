@@ -30,7 +30,7 @@ def callback():
     elif (userText == 'ทำไรอยู่') :
         sendText(user,'ยุ่ง')
     else :
-        sendText(user,'เราไม่เข้าใจ)
+        sendText(user,'เราไม่เข้าใจ') 
     
     return '',200
 
